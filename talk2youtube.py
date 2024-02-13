@@ -87,7 +87,7 @@ if video_url:
 
 
 
-st.title('💬 Talk2Video')
+st.title('💬 Talk2YouTube')
 st.write(st.session_state.get("summary",'Load a youtube video and chat with it'))
 
 if "messages" not in st.session_state:

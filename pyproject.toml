@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "talk2video"
+name = "talk2youtube"
 version = "0.0.1"
 description = "Chat with a video"
 authors = ["Meir Michanie <meirm@riunx.com>"]
