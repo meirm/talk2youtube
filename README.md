@@ -2,6 +2,10 @@
 
 Talk2YouTube is a Streamlit-based application that allows users to interact with YouTube videos in a unique way. It enables the extraction of metadata and transcripts from YouTube videos, indexing this information for easy querying, and providing a chat interface where users can ask questions about the video's content. This tool leverages the power of OpenAI's API for natural language processing and the `llama_index` package for indexing and querying video content.
 
+## Screenshot
+
+![Talk2YouTube Screenshot](./screenshot.png)
+
 ## Features
 
 - **YouTube Metadata and Transcript Extraction**: Fetches metadata and transcripts directly from YouTube videos.
